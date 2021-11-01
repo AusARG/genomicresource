@@ -4,4 +4,4 @@ AusARG is aimed at generating high quality genomic resources from Australian amp
 # Resources
 
 1. [Compute resources](https://github.com/AusARG/ABLeS)
-2. [Annotation related resources](https://github.com/kango2/pogo)
+2. [Annotation @NCI-Gadi resources](https://github.com/kango2/pogo)
